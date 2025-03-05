@@ -1,0 +1,43 @@
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+
+# Archivos generados por Gradle
+.gradle/
+.idea/
+*.iml
+*.log
+*.keystore
+
+# Archivos de construcción
+build/
+app/build/
+*.apk
+*.aar
+*.jar
+
+# Archivos de configuración local
+local.properties
+
+# Archivos de Firebase (si no son necesarios)
+google-services.json
+GoogleService-Info.plist
+
+# Archivos de entorno
+.env
+.secrets
+
+# Archivos temporales
+*.swp
+*.swo
