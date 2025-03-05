@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="profile_name">Jeferson Hernandez</string>
+    <string name="profile_title">Ingeniero de Sistemas</string>
+    <string name="phone">+573157966101</string>
+    <string name="email">jefersonuriel.hernandez@gmail.com</string>
+    <string name="account">\@JefersonHernandez</string>
+    <string name="profile_photo">Profile photo</string>
+</resources>
